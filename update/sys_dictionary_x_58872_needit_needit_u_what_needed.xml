@@ -11,7 +11,7 @@
         <column_label>What needed</column_label>
         <comments/>
         <create_roles/>
-        <default_value>human resources 1</default_value>
+        <default_value>[legal1]</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_58872_needit_needit</name>
         <next_element/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_needit_needit_u_what_needed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-08 10:01:08</sys_updated_on>
+        <sys_updated_on>2024-02-15 11:23:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
